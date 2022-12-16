@@ -1,5 +1,5 @@
 {
-    "name": "developerh/google-chat",
+    "name": "developh/google-chat",
     "description": "Laravel wrapper for google chat api",
     "type": "library",
     "require": {
