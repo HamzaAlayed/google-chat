@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Developerh\\GoogleChat\\": "src/"
+            "Developh\\GoogleChat\\": "src/"
         }
     },
     "authors": [
@@ -20,5 +20,5 @@
             "email": "developerh108@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
